@@ -1,6 +1,6 @@
 ---
 path: "/hello-world"
-date: "2018-01-04 10:03:51"
+date: "2018-01-04"
 title: "First gatsby blog post"
 ---
 
