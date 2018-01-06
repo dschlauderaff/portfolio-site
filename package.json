@@ -14,7 +14,8 @@
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-remark": "^1.7.26",
     "react-helmet": "^5.2.0",
-    "styled-components": "^2.4.0"
+    "styled-components": "^2.4.0",
+    "typography-theme-twin-peaks": "^0.15.11"
   },
   "keywords": [
     "gatsby"
